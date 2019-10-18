@@ -1,3 +1,4 @@
+//Shortest job first
 #include <bits/stdc++.h>
 using namespace std;
 
