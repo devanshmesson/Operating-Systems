@@ -1,5 +1,6 @@
 //Process Scheduling
 //Priority Scheduling
+//Operating System 
 #include<bits/stdc++.h>
 using namespace std;
 
